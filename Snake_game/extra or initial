@@ -1,0 +1,16 @@
+# x_pos = [0, 20, -20]
+#
+# segments = []
+# for i in range(0, 3):
+#     new = Turtle("square")
+#     new.color("white")
+#     new.penup()
+#     new.goto(x=x_pos[i], y=0)
+#     segments.append(new)
+
+
+# for seg_num in range(len(segments)-1, 0, -1):  # (start, stop, step)(len-1 cuz of index)
+    #     new_x = segments[seg_num-1].xcor()  # (it's the second to last position)
+    #     new_y = segments[seg_num-1].ycor()
+    #     segments[seg_num].goto(x=new_x, y=new_y)  # (it's the last seg position)
+    # segments[0].forward(20)
