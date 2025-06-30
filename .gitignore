@@ -1,0 +1,13 @@
+# Ignore unrelated projects
+Blackjack/
+Ceasarcipher-hangman/
+CoffeeMachine/
+Hirstpainting/
+QuizGame/
+blind_auction-higher_lower/
+turtle_race/
+
+# Ignore IDE and Python cache
+.idea/
+__pycache__/
+*.pyc
